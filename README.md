@@ -1,4 +1,4 @@
-# JavaScript-Arithmetic
+# JavaScript-Arithmetic And Function
 
 
 ### JavaScript Arithmetic Operations
@@ -58,7 +58,8 @@ Here are some questions focused on JavaScript arithmetic operations:
    Write an expression that increments the value of `a` by `1` and then multiplies it by `b`. What will be the result if `a` is `7` and `b` is `5`?
 
 
-   ### JavaScript Functions
+
+### JavaScript Functions
 
 JavaScript functions are reusable blocks of code designed to perform a specific task. Functions take input, process it, and return a result. They help in organizing and reusing code efficiently. Here’s an overview of how functions work:
 
